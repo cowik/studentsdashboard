@@ -24,7 +24,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="../../index2.html"><b>Laravel</b> X<b> AdminLTE 3</b></a>
+    <a href="../../index2.html"><b>Students Dashboard</b></a>
   </div>
   
   <!-- /.login-logo -->
